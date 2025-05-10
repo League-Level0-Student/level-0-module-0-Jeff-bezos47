@@ -6,7 +6,7 @@ public class Hello {
 public static void main(String[] args) {
 	System.out.println("hello world");
 	String input = JOptionPane.showInputDialog("What is your name?");
-	System.out.println(input);
+	System.out.println(imput);
 	JOptionPane.showMessageDialog(null,"Hello " +input + "! Hope you're well!");
 }
 }
